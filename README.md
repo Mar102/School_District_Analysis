@@ -42,4 +42,4 @@ After recalculating the scores by grade, scores by school spending, scores by sc
     * Math and Reading Scores by Grade - All other school averages for math and reading scores remained unaffected. However, the overall average reading score lowered from 81.8778 to 81.8558 and math score from 78.9853 to 78.9305.
     * Scores by School Spending - Spending percentage per student lowered for the $630-644 bin, droping from 62.86% to 56.39%. This was due to also lower percentages from reading and math scores. 
     * Scores by School Size - The medium (1000-2000) school size percentage dropped by 6 points for the passing math, reading and overall passing percentage. 
-    * Scores by School Type - Schools remained as a class object. 
+    * Scores by School Type - Charter schools suffered a percentage decrease after Thomas High School's grades were replaced with NaN. Lower percentages for the subjects lowered the overall passing percentage by more than 3%, from 90.4% to 87.2%.
