@@ -35,12 +35,11 @@ After you replace the reading and math scores for ninth graders at Thomas High S
   * How is the district summary affected?
      * The averages of the math and reading scores lowered, which caused the overall passing percentage to go from 65% to 64%. 
   * How is the school summary affected?
-     * Thomas High School dropped from a top five spot (No. 2) to 8th place. Scores of the average math, passing math percentage, passing reading percentage and overall passing        percentage dropped for Thomas high school.
+     * Thomas High School dropped from a top five spot (No. 2) to 8th place. Scores of the average math, passing math percentage, passing reading percentage and overall passing percentage dropped for Thomas high school.
   * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
      * Thomas High School dropped from a top five spot (No. 2) to 8th place. 
-  * How does replacing the ninth-grade scores affect the following?
-    * Math and Reading Scores by Grade
-    * Scores by School Spending
-    * Scores by School Size
-    * Scores by School Type
-     * All other school averages for math and reading scores remained unaffected. 
+After recalculating the scores by grade, scores by school spending, scores by school size, and scores by school type, the ninth-grade scores were affected in the following ways:
+    * Math and Reading Scores by Grade - All other school averages for math and reading scores remained unaffected. However, the overall average reading score lowered from 81.8778 to 81.8558 and math score from 78.9853 to 78.9305.
+    * Scores by School Spending - Spending percentage per student lowered for the $630-644 bin, droping from 62.86% to 56.39%. This was due to also lower percentages from reading and math scores. 
+    * Scores by School Size - The medium (1000-2000) school size percentage dropped by 6 points for the passing math, reading and overall passing percentage. 
+    * Scores by School Type - Schools remained as a class object. 
